@@ -14,7 +14,7 @@ O projeto foi desenvolvido como resposta ao desafio "Natural ou Fake Natty? Como
 
 - **Figma**: Utilizei o Figma para editar cores, logotipos e imagens do template. Adicionei um plugin chamado "builder.io" para transformar a página em código. Basta selecionar a página, clicar com o botão direito > Plugin > builder.io, e seguir os passos apresentados.
 
-- **builder.io**: Esta plataforma gera o código e você só precisa copiar e colar dentro do `body` de um documento HTML.
+- **builder.io**: Esta IA gera o código a partir do desing no Figma e você só precisa copiar e colar dentro do `body` de um documento HTML.
 
 - **aicolors.co**: Com um único comando, esta IA gera uma paleta de cores personalizada para o seu projeto.
 
@@ -37,6 +37,13 @@ O projeto foi desenvolvido como resposta ao desafio "Natural ou Fake Natty? Como
 - O builder.io codifica apenas uma página por vez e insere HTML e CSS no mesmo arquivo, o que pode exigir separação manual. Também não reutiliza estilos CSS, resultando em código repetitivo. Além disso, pode conter erros de digitação e alocação de componentes, necessitando de ajustes manuais. A responsividade do projeto é bem limitada. A versão mais otimizada é paga.
 
 - Essas ferramentas são ótimas para otimizar trabalhos simples e acelerar o desenvolvimento. Porém, para aplicações mais complexas, ainda há algumas limitações, especialmente nas versões gratuitas.
+<br>
+
+## 🔸Links interessantes:
+
+- https://lnkd.in/eDuhcDpt
+
+- https://lnkd.in/eb2m3uU9
 <br>
 
 ##
