@@ -21,7 +21,13 @@ Este site foi criado totalmente com a ajuda de Inteligência Artificial, desde o
 
 
 ## 💭 Reflexão 
-Essas ferramentas são ótimas para otimizar trabalhos simples e acelerar o desenvolvimento. Porém, para aplicações mais complexas, ainda há algumas limitações, especialmente nas versões gratuitas.
+- A maioria das ferramentas possui limitações na versão gratuita.
+  
+- O relume.io precisa de uma licença paga para exportar o template para o Figma, mas oferece um teste gratuito de 7 dias.
+  
+- O builder.io codifica apenas uma página por vez e insere HTML e CSS no mesmo arquivo, o que pode exigir separação manual. Também não reutiliza estilos CSS, resultando em código repetitivo. Além disso, pode conter erros de digitação e alocação de componentes, necessitando de ajustes manuais. Caso queira responsividade, também terá que atualizar manualmente. A versão mais otimizada é paga.
+
+- Essas ferramentas são ótimas para otimizar trabalhos simples e acelerar o desenvolvimento. Porém, para aplicações mais complexas, ainda há algumas limitações, especialmente nas versões gratuitas.
 
 ##
 
