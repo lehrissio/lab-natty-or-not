@@ -7,7 +7,7 @@ Este site foi criado totalmente com a ajuda de Inteligência Artificial, desde o
 
 - **relume.io**: Com esta ferramenta, você pode criar automaticamente um "mapa mental" de todas as seções do seu site usando apenas um prompt de comando. A IA gera sugestões de páginas e componentes. Depois de definir os componentes, você pode visualizar um template bruto e editar aspectos como a disposição e o conteúdo dos textos. A IA também pode gerar novos textos para os componentes. No final, você pode exportar os templates ou o mapa mental para sua conta no Figma.
 
-- **Figma**: Utilizamos o Figma para editar cores, logotipos e imagens do template. Adicionamos um plugin chamado "builder.io" para transformar a página em código. Basta selecionar a página, clicar com o botão direito > Plugin > builder.io, e seguir os passos apresentados.
+- **Figma**: Utilizei o Figma para editar cores, logotipos e imagens do template. Adicionamos um plugin chamado "builder.io" para transformar a página em código. Basta selecionar a página, clicar com o botão direito > Plugin > builder.io, e seguir os passos apresentados.
 
 - **builder.io**: Esta plataforma gera o código e você só precisa copiar e colar dentro do `body` de um documento HTML.
 
