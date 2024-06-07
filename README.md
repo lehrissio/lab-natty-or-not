@@ -1,7 +1,9 @@
-# Website Gerado Inteiramente por Inteligência Artificial 
+# Website Gerado por Inteligência Artificial ✨
 
 ## 📒 Descrição
-Este site foi criado totalmente com a ajuda de Inteligência Artificial, desde o design, imagens, até o código. Utilizei 5 IAs no total para realizar o projeto. Este projeto foi feito como solução á um desafio da DIO (Digital Innovation One) em que a proposta era explorar as funcionaladades das IAs disponíveis no mercado.
+Este site foi inteiramente criado com o auxílio de Inteligência Artificial, abrangendo design, imagens e código. Para realizar o projeto, utilizei um total de cinco IAs.
+
+O projeto foi desenvolvido como resposta ao desafio "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!", promovido pela DIO (Digital Innovation One) e tinha como objetivo explorar as funcionalidades das IAs disponíveis no mercado.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -18,7 +20,7 @@ Este site foi criado totalmente com a ajuda de Inteligência Artificial, desde o
 ## 🚀 Resultados
 
 ![image info](./assets/home.png)
-
+**Obs.: A IA se baseou no projeto do Figma de 1440px.**
 
 ## 💭 Reflexão 
 - A maioria das ferramentas possui limitações na versão gratuita.
