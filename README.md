@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Website Gerado Inteiramente por Inteligência Artificial 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este site foi criado totalmente com a ajuda de Inteligência Artificial, desde o design, imagens, até o código. Utilizei 5 IAs no total para realizar o projeto. Este projeto foi feito como solução á um desafio da DIO (Digital Innovation One) em que a proposta era explorar as funcionaladades das IAs disponíveis no mercado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- **relume.io**: Com esta ferramenta, você pode criar automaticamente um "mapa mental" de todas as seções do seu site usando apenas um prompt de comando. A IA gera sugestões de páginas e componentes. Depois de definir os componentes, você pode visualizar um template bruto e editar aspectos como a disposição e o conteúdo dos textos. A IA também pode gerar novos textos para os componentes. No final, você pode exportar os templates ou o mapa mental para sua conta no Figma.
+
+- **Figma**: Utilizamos o Figma para editar cores, logotipos e imagens do template. Adicionamos um plugin chamado "builder.io" para transformar a página em código. Basta selecionar a página, clicar com o botão direito > Plugin > builder.io, e seguir os passos apresentados.
+
+- **builder.io**: Esta plataforma gera o código e você só precisa copiar e colar dentro do `body` de um documento HTML.
+
+- **aicolors.co**: Com um único comando, esta IA gera uma paleta de cores personalizada para o seu projeto.
+
+- **Adobe Firefly** e **Leonardo.ia**: Utilizadas para gerar as imagens do projeto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![image info](./assets/home.png)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão 
+Essas ferramentas são ótimas para otimizar trabalhos simples e acelerar o desenvolvimento. Porém, para aplicações mais complexas, ainda há algumas limitações, especialmente nas versões gratuitas.
 
-## Links Interessantes
+##
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Feito com muito ♥
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Agradeço por visitar meu Github ♥
+Me dê um "FOLLOW" que retribuo, vamos criar novas conexões 😊
+
+Até a próxima! 👋😊
